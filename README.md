@@ -1,5 +1,6 @@
 # photo-organizer
-Projeto organizador de fotos feito em java
+Based on the project created by Código Fonte TV
+[Código Fonte TV] (https://www.youtube.com/watch?v=L8KFB0VyEwo)
 
 ---
 ### How to run?
