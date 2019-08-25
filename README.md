@@ -16,7 +16,7 @@ Based on the project created by
 > Go to this directory:
 > Computer \ HKEY_CLASSES_ROOT \ Directory \ Background \ shell.
 
-> Select shell and create a key folder called photo_organizer.
+> Select shell and create a key called photo_organizer.
 
 > In the photo_organizer key create another called command.
 
