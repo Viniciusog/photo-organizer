@@ -1,5 +1,5 @@
 # photo-organizer
-Based on the project created by Código Fonte TV
+Based on the project created by
 [Código Fonte TV](https://www.youtube.com/watch?v=L8KFB0VyEwo)
 
 ---
